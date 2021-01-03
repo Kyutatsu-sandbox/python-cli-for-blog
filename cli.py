@@ -2,7 +2,7 @@ from termcolor import colored, cprint
 
 
 def main():
-    print('ちんぽにゃ--------------STDOUT^---------------')
+    print('STDOUT')
     return 'RETURN'
 
 def color():
